@@ -1,0 +1,91 @@
+*{margin: 0px;padding: 0px;box-sizing: border-box;}
+body{width: 100%;height:auto;}
+header{
+	height: 700px;background-image: url("https://image.freepik.com/free-photo/various-mexican-food-on-dark-background_23-2147740705.jpg");background-repeat: no-repeat;background-size: cover;}
+.navbar-brand{font-size: 16px;}
+.navbar{width: 100%;}
+.dropdown-menu .fas,.far,.fab{margin-right: 10px !important;color:lightgray;}
+
+.navbar-expand-lg+div{padding-top: 200px !important;max-width: 700px !important;margin-left: 22% !important;}
+nav+div .text-primary{color: #f5a637 !important;font-size:.75rem;}
+nav+div h2[class="text-muted"]{font-size:.75rem;}
+nav+div h1{font-family: 'Pacifico', cursive;}
+nav+div p{color: lightgray;}
+nav+div button{background-color: transparent;color: white;border: 1px solid #f5a637;font-size: .75rem;line-height: 1.25rem;letter-spacing: .05em;}
+.first .row div .dolor{font-size: 1.25rem !important;margin-top: 5rem;width: 170px;}
+.first .row div .sweet{width: 100%;width: 280px;margin-top: 2.5rem;}
+.first:first-child .row div:nth-child(3){margin-top: 12rem;}
+.first:first-child .row div:nth-child(3) h2{}
+.first:first-child .row div:nth-child(3) p{width: 600px;margin-top: 1.5rem;}
+.first:first-child .row div:nth-child(3) h2{font-family: Playfair Display,serif;}
+/*-------------------------------------------------------------------------------------------*/
+#navbar-example2+div {
+    padding-top: 0px !important;
+    margin-left: 0% !important;
+}
+.media h4{font-size:1.375rem;}
+.badge{font-size:35px;font-family: 'Tangerine', cursive;}
+/*#lunch,#dinner,#drink{display: none !important;}
+/*-------------------------------------------------------------------------------------------*/
+.dishes{margin-top: 10rem !important;}
+.carousel-cell {width: 32.5%;height: 300px;margin-right: 10px; border-radius: 5px;}
+.carousel-cell img{display: block; width: 100%; }
+.flickity-page-dots .dot {display: none;}
+.flickity{padding-right: 0px;padding-left: 0px;}
+.flickity-viewport{padding: 0px;}
+/*------------------------------------------------------------------------------------------*/
+.inputpart{background-color: #e9ecef;}
+.form-row{width: 80%;margin-left: 10%;}
+.form-group button{background-color: transparent;color: #fd7e14;border-color: #fd7e14;}
+.form-group button:hover{color: gray;background-color: transparent;border-color: #fd7e14;}
+/*-------------------------------------------------------------------------------------------*/
+ #park .carousel-item {width: 100% !important;}
+ #park .carousel-item  p{font-size: 1.25rem;width: 550px;margin-left: 110px;margin-top: 50px;padding-left: 30px;}
+ #park .carousel-item img{margin-right:6rem !important;}
+ .carousel-indicators li{background-color: silver;width: 10px;height: 10px;}
+ .carousel-indicators{/*margin-top: 4rem !important;*/}
+ /*------------------------------------------------------------------------------------------*/
+ .events{margin-top: 8rem;}
+ .events div h2{font-family: 'Playfair Display', serif;}
+ .sep{background-image: url("https://image.freepik.com/free-photo/portrait-of-smiling-beautiful-young-asian-woman-wear-red-apron_7191-730.jpg");background-repeat: no-repeat;background-size: cover;width: 100%;height: 600px;}
+ .table{margin-top: 9rem; margin-left: 7rem;width: 470px;}
+.table h3{font-size: 14px;color: red;}
+.table h2{font-size: 28px;}
+.table button{border: 1px solid #fd7e14 !important;background-color: #fd7e14;font-size: 14px;}
+/*-------------------------------------------------------------------------------------------*/
+#num{font-size: 30px;font-family: 'Tangerine', cursive;font-weight: bold;}
+div h5{font-size: 21px;font-family: Playfair Display,serif;}
+.border-warning{background-color: transparent;font-size: 12px;}
+/*-------------------------------------------------------------------------------------------*/
+.newsletter{background-color: #f0f0f0 !important;font-family: Playfair Display,serif;}
+.newsletter p{font-size: 14px;}
+.newsletter form{margin-left: 25rem;;margin-bottom: 100px;margin-top: 30px;}
+input[type="password"]{width: 350px !important;border-radius: 0%;padding: 22px;}
+.newsletter button{border-radius: 0%;background-color: transparent;border:1px solid #f5a637;padding: 11px;width: 120px;font-size: 12px;font-weight: bold;}
+/*--------------------------------------------------------------------------------------------*/
+p,h2{font-family: Playfair Display,serif;}
+/*--------------------------------------------------------------------------------------------*/
+.aside{height: 800px;}
+aside,.divnextaside{width: 32.5% !important;height: 100% !important;}
+/*@media screen and(max-width: 700px){
+	.aside img{margin: 0px;}
+}*/
+/*-------------------------------------------------------------------------------------------*/
+iframe{margin-top: 100px;width: 100%;}
+/*-------------------------------------------------------------------------------------------*/
+.footer{background-color: #151515;height: 400px;}
+ .rowfooter div{height: 300px !important;padding-top: 100px;}
+ .footer h5{color: #f5a637;font-size: 0.75rem;margin-bottom: 30px;}
+ .footer .fa-copyright{margin-left: 90px;}
+ /*------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
